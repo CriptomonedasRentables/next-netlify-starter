@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Bienvenido a mi app!" />
         <p className="description">
-          <code>CriptomonedasRentables.com</code>
+          <code>CriptomonedasRentables com</code>
         </p>
       </main>
 
